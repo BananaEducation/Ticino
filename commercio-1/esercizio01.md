@@ -2,6 +2,13 @@
 
 KALQ-O-TIN di Katya Talquini è una ditta individuale di Castione che si occupa di pittura. 
 La sua attività consiste nell’eseguire opere di tinteggio, interne ed esterne, di case monofamiliari, appartamenti, immobili commerciali e di altro genere, e nel vendere, direttamente in ditta, merce varia (vernici, pitture, pennelli, barattoli di acquaragia, rulli, scale,…). In azienda, oltre alla titolare che si occupa della gestione economicofinanziaria e amministrativo-commerciale, lavorano due imbianchini e un apprendista.  
+
+## File Banana Contabilità
+
+* [File per esercizi](KALQ-O-TIN-2020-esercizi.ac2)
+* [File con soluzioni](KALQ-O-TIN-2020-soluzioni.ac2)
+
+## Registrazioni
  
 Di seguito sono elencati alcuni fatti di gestione che hanno caratterizzato l’attività del mese di gennaio 2020 (tra parentesi il giorno dell’operazione); fatti da tradurre, sulla base del piano contabile dell’omonimo file Banana, in appropriati articoli contabili di partita doppia. 
  
