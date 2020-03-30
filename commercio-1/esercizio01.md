@@ -14,7 +14,7 @@ Di seguito sono elencati alcuni fatti di gestione che hanno caratterizzato l’a
 * [gen-15](documents/KALQ-O-TIN-2020-01-15.pdf) Vendita a contanti di merce diversa: CHF 323.10. 
 * [gen-16](documents/KALQ-O-TIN-2020-01-16.pdf) Acquisto, a contanti, di francobolli: CHF 142.50. 
 * [gen-17](documents/KALQ-O-TIN-2020-01-17.pdf) La titolare di KALQ-O-TIN trasferisce dalla cassa registratrice al conto banca della ditta un importo di  CHF 1'450.00. 
-* [gen-20](documents/KALQ-O-TIN 2020-01-20.pdf) Pagamento dell’affitto di gennaio e febbraio 2020: CHF 3'000.00 tramite banca. 
+* [gen-20](documents/KALQ-O-TIN-2020-01-20.pdf) Pagamento dell’affitto di gennaio e febbraio 2020: CHF 3'000.00 tramite banca. 
 * [gen-21](documents/KALQ-O-TIN-2020-01-21.pdf) Dall’Azienda elettrica della Calanca si riceve la fattura per il consumo di energia elettrica: CHF 872.15 
 * [gen-22](documents/KALQ-O-TIN-2020-01-22.pdf) Rifornimento di benzina. A contanti: CHF 68.50. 
 * [gen-23](documents/KALQ-O-TIN-2020-01-23.pdf) Il cliente Lorenzetti di Claro salda la fattura versando, tramite banca, la solla di CHF 4'308.00. 
