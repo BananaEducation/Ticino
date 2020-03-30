@@ -6,7 +6,7 @@ La sua attività consiste nell’eseguire opere di tinteggio, interne ed esterne
 ## File Banana Contabilità
 
 * [File per esercizi](KALQ-O-TIN-2020-esercizi.ac2)
-* [File con soluzioni](KALQ-O-TIN-2020-soluzioni.ac2)
+* [File con soluzioni](KALQ-O-TIN-2020-soluzione.ac2)
 
 ## Registrazioni
  
